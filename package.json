@@ -1,7 +1,7 @@
 {
-  "name": "auction-service",
+  "name": "node-aws-serverless-auction",
   "version": "1.0.0",
-  "description": "Sample auction service by Zak A.",
+  "description": "AWS serverless node auction service by Zak A.",
   "author": "Zak A. <me@javascript.london>",
   "license": "MIT",
   "devDependencies": {
